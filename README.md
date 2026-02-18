@@ -2,7 +2,7 @@
 Neste desafio, você terá a oportunidade de criar seu primeiro projeto lógico de banco de dados utilizando o MySQL. O objetivo é replicar a modelagem de um banco de dados para um cenário de e-commerce. Prepare-se para aplicar seus conhecimentos em modelagem de banco de dados e traduzir os requisitos do cenário em uma estrutura lógica coerente usando o MySQL.
 
 # Projeto Lógico de Banco de Dados - E-commerce
-
+![Diagrama EER](modelo_conceitual/diagrama_eer_novo.png)
 ## Objetivo
 O objetivo deste projeto foi transformar um modelo conceitual (diagrama EER) em um esquema lógico de banco de dados MySQL, aplicando regras de negócio complexas e refinando a estrutura para garantir integridade e performance.
 
